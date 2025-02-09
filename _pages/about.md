@@ -12,6 +12,5 @@ My name is Marlyn Ngembus and I  am a senior at Virginia tech studying computer 
 
 Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/images/IMG_0082)
-![hell0](/images/IMG_2137)
-![hell01](/images/IMG_2150)
+
 
