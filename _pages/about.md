@@ -14,12 +14,12 @@ Autonomous Tractor Project
 ======
 ![Autonomous Tractor Project](/images/IMG_0082.jpg)
 
-------
+
 Temperature Sensor
 ======
 ![Temperature Sensor](/images/IMG_2137.jpg)
 
-------
+
 Rainbow LED demo
 ======
 ![Rainbow LEDs](/images/IMG_2150.jpg)
